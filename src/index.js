@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom';
 
 const flname = 'Manan Patel';
 const currDate = new Date().toLocaleDateString();
-const currDate = new Date().toLocaleDateString();const currDate = new Date().toLocaleDateString();const currDate = new Date().toLocaleDateString();
+//const currDate = new Date().toLocaleDateString();const currDate = new Date().toLocaleDateString();const currDate = new Date().toLocaleDateString();
 
 function tick() {
   const element = (
