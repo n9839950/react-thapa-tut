@@ -17,13 +17,13 @@ function tick() {
      <h1>{`Portfolio - ${flname}`}</h1> 
       
     <p>{element} </p>
-    
+    <h1> WHAT YOU DOING SUNSHINE ??? </h1>
      <p> Hardworking and motivated Software Engineer in the last semester of Bachelor’s degree (Computer and
    Software systems) with a flair for creating elegant solutions in a limited time. Developed an attendance
    management web app and QR-code based visitor management sys for a start-up. Passionate about software
    architecture and cloud computing to shape the environment by contributing in developing world-leading
    products in ranging domains.</p> 
-   <ol>
+   <ol> 
        <h3>Professional Skills </h3>
      <li>The longing to learn, perform various tasks and fulfil contending deadlines</li>
      <li>A constructive and innovative approach to problem solving</li>
