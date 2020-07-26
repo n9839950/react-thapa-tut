@@ -17,7 +17,6 @@ function tick() {
      <h1>{`Portfolio - ${flname}`}</h1> 
       
     <p>{element} </p>
-    <h1> WHAT YOU DOING SUNSHINE ??? </h1>
      <p> Hardworking and motivated Software Engineer in the last semester of Bachelor’s degree (Computer and
    Software systems) with a flair for creating elegant solutions in a limited time. Developed an attendance
    management web app and QR-code based visitor management sys for a start-up. Passionate about software
